@@ -1,8 +1,8 @@
-# 🚀 Crypto Market Exploratory Data Analysis (EDA)
+# Crypto Market Exploratory Data Analysis (EDA)
 
-Turning crypto volatility into visual clarity 📊💹
+### Turning crypto volatility into visual clarity 
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on **Exploratory Data Analysis (EDA)** of the cryptocurrency market using real-world data scraped from **CoinGecko**.  
 The goal was to transform raw, volatile crypto data into **meaningful insights and visual stories** that help understand market behavior.
 
@@ -10,7 +10,7 @@ The dataset consists of **18,000+ records** covering pricing, market capitalizat
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 The cryptocurrency market is:
 - Highly volatile  
 - Fragmented across coins and metrics  
@@ -20,7 +20,7 @@ Investors and analysts often struggle to extract **clear trends and actionable i
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 The analysis aims to:
 
 - Identify **top gainers & losers** (24h performance)
@@ -31,7 +31,7 @@ The analysis aims to:
 
 ---
 
-## 🧰 Tools & Technologies Used
+## Tools & Technologies Used
 - **Python**
 - **Pandas** – data cleaning & manipulation
 - **Matplotlib & Seaborn** – visualization
@@ -40,7 +40,8 @@ The analysis aims to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+```
 
 ├── data/
 │ ├── coingecko_all_coins.csv
@@ -54,10 +55,11 @@ The analysis aims to:
 │ └── EDA.pptx
 │
 └── README.md
+```
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Clear separation between **high-cap stable coins** and **high-volatility altcoins**
 - Strong correlation between **market cap and volume** for top cryptocurrencies
 - BTC and ETH significantly influence overall market movement
@@ -65,17 +67,17 @@ The analysis aims to:
 
 ---
 
-## 🎤 Presentation
+## Presentation
 The analysis was presented at **Innomatics Research Labs** in front of trainers, mentors, and peers, focusing on:
 - Insight-driven storytelling
 - Visual explanation of market behavior
 - Practical interpretation beyond numbers
 
-📁 Presentation file: `presentation/EDA.pptx`
+Presentation file: `presentation/EDA.pptx`
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/EDA-Project-Crypto.git
@@ -88,14 +90,14 @@ i. CoinGecko_webscrapping.ipynb
 
 ii. CoinGecko_EDA.ipynb
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 - Hands-on experience with real-world messy data
 - Practical understanding of crypto market dynamics
 - Improved data storytelling & visualization skills
 - End-to-end EDA workflow from scraping to presentation
 
-## 📬 Contact
+##  Contact
 
 If you have feedback or would like to discuss this project, feel free to connect!
 
